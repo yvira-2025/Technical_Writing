@@ -205,21 +205,3 @@ You can generate this automatically with markdown tools or use:
 **Q: Why does X happen?**
 A: Because of Y. Here's how to fix it...
 ```
-
-## Best Practices
-
-1. **Keep it updated** - Your README should evolve with your project
-2. **Be concise** - Long paragraphs are hard to read
-3. **Use consistent formatting** - Maintain uniform headers, lists, etc.
-4. **Include visual elements** - Screenshots, diagrams, or GIFs when helpful
-5. **Make it skimmable** - Use clear headers and bullet points
-6. **Include contact info** - How to reach you with questions
-
-## README Templates
-
-For quick starts, consider these templates:
-- [Standard README](https://github.com/RichardLitt/standard-readme)
-- [Make a README](https://www.makeareadme.com/)
-- [GitHub Template](https://github.com/othneildrew/Best-README-Template)
-
-Remember that your README is often the first impression of your project - make it clear, helpful, and professional!
